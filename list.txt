@@ -84,3 +84,4 @@ r6---sn-a5meknlz.googlevideo.com
 r6---sn-a5mlrnes.googlevideo.com
 securepubads.g.doubleclick.net
 static.doubleclick.net
+redirector.googlevideo.com
