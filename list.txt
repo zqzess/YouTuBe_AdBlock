@@ -1,4 +1,4 @@
-# YTAdBlock rules refresh time: 2021-01-09 22:20:46
+# YTAdBlock rules refresh time: 2021-01-09 22:31:26
 
 ad.doubleclick.net
 googleads.g.doubleclick.net
@@ -17,12 +17,21 @@ r1---sn-a5mlrn7s.googlevideo.com
 r1---sn-a5mlrn7y.googlevideo.com
 r1---sn-a5mlrnel.googlevideo.com
 r1---sn-a5msen7l.googlevideo.com
+r1---sn-i3b7knlk.googlevideo.com
 r1---sn-i3b7kns6.googlevideo.com
 r1---sn-i3b7knse.googlevideo.com
 r1---sn-i3belnls.googlevideo.com
 r1---sn-ipoxu-umbl.googlevideo.com
+r1---sn-ipoxu-un5s.googlevideo.com
+r1---sn-ipoxu-un5z.googlevideo.com
+r1---sn-n4v7knl6.googlevideo.com
+r1---sn-n4v7knlk.googlevideo.com
+r1---sn-n4v7sn7s.googlevideo.com
+r1---sn-n4v7sney.googlevideo.com
+r1---sn-npoeen7d.googlevideo.com
 r1---sn-nx57ynls.googlevideo.com
 r1---sn-nx57ynlz.googlevideo.com
+r2---sn-8xgp1vo-nx5e.googlevideo.com
 r2---sn-a5mekner.googlevideo.com
 r2---sn-a5mekney.googlevideo.com
 r2---sn-a5meknle.googlevideo.com
@@ -38,6 +47,12 @@ r2---sn-a5msen7s.googlevideo.com
 r2---sn-i3b7knlk.googlevideo.com
 r2---sn-i3b7kns6.googlevideo.com
 r2---sn-i3belne6.googlevideo.com
+r2---sn-ipoxu-un5s.googlevideo.com
+r2---sn-n4v7knlk.googlevideo.com
+r2---sn-n4v7sn7z.googlevideo.com
+r2---sn-n4v7sne7.googlevideo.com
+r2---sn-npoe7ne6.googlevideo.com
+r2---sn-npoeenez.googlevideo.com
 r2---sn-nx5s7n7s.googlevideo.com
 r2---sn-un57sn7s.googlevideo.com
 r3---sn-a5meknek.googlevideo.com
@@ -55,6 +70,16 @@ r3---sn-i3belnl6.googlevideo.com
 r3---sn-i3belnlz.googlevideo.com
 r3---sn-ipoxu-umb6.googlevideo.com
 r3---sn-ipoxu-umbd.googlevideo.com
+r3---sn-ipoxu-un5z.googlevideo.com
+r3---sn-n4v7knlk.googlevideo.com
+r3---sn-n4v7sn76.googlevideo.com
+r3---sn-n4v7sn7l.googlevideo.com
+r3---sn-n4v7sn7z.googlevideo.com
+r3---sn-n4v7sney.googlevideo.com
+r3---sn-npoe7nek.googlevideo.com
+r3---sn-npoeeney.googlevideo.com
+r3---sn-npoeenez.googlevideo.com
+r3---sn-npoeenll.googlevideo.com
 r3---sn-nx5s7n76.googlevideo.com
 r3---sn-o097znlk.googlevideo.com
 r4---sn-1gieen7e.googlevideo.com
@@ -69,6 +94,14 @@ r4---sn-a5mlrnel.googlevideo.com
 r4---sn-a5msen7l.googlevideo.com
 r4---sn-a5msen7s.googlevideo.com
 r4---sn-i3b7knlk.googlevideo.com
+r4---sn-ipoxu-un5s.googlevideo.com
+r4---sn-ipoxu-un5z.googlevideo.com
+r4---sn-n4v7sn7l.googlevideo.com
+r4---sn-n4v7sn7s.googlevideo.com
+r4---sn-n4v7sn7z.googlevideo.com
+r4---sn-npoeene6.googlevideo.com
+r4---sn-npoeenez.googlevideo.com
+r4---sn-npoeenl7.googlevideo.com
 r4---sn-nx5s7n7d.googlevideo.com
 r5---sn-a5mekn7y.googlevideo.com
 r5---sn-a5meknel.googlevideo.com
@@ -88,7 +121,12 @@ r5---sn-i3belney.googlevideo.com
 r5---sn-i3belnll.googlevideo.com
 r5---sn-i3belnls.googlevideo.com
 r5---sn-ipoxu-umb6.googlevideo.com
+r5---sn-ipoxu-un5s.googlevideo.com
 r5---sn-jvhnu5g-88ve.googlevideo.com
+r5---sn-n4v7knlk.googlevideo.com
+r5---sn-n4v7sn7l.googlevideo.com
+r5---sn-n4v7sn7z.googlevideo.com
+r5---sn-npoe7nez.googlevideo.com
 r5---sn-nx57ynlz.googlevideo.com
 r5---sn-q4flrner.googlevideo.com
 r5---sn-qxoedn7k.googlevideo.com
@@ -98,9 +136,16 @@ r6---sn-a5meknl6.googlevideo.com
 r6---sn-a5meknll.googlevideo.com
 r6---sn-a5meknlz.googlevideo.com
 r6---sn-a5mlrnes.googlevideo.com
+r6---sn-ipoxu-un5s.googlevideo.com
+r6---sn-ipoxu-un5z.googlevideo.com
 r6---sn-nx5e6ne6.googlevideo.com
+r6---sn-un57en7s.googlevideo.com
+r7---sn-ipoxu-un5s.googlevideo.com
+r7---sn-ipoxu-un5z.googlevideo.com
 r8---sn-ipoxu-umb6.googlevideo.com
 r8---sn-ipoxu-umbd.googlevideo.com
+r8---sn-ipoxu-un5s.googlevideo.com
+r8---sn-ipoxu-un5z.googlevideo.com
 redirector.googlevideo.com
 securepubads.g.doubleclick.net
 static.doubleclick.net
