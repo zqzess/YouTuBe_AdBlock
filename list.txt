@@ -2,10 +2,6 @@
 
 ad.doubleclick.net
 googleads.g.doubleclick.net
-lh1.googleusercontent.com
-lh2.googleusercontent.com
-lh3.googleusercontent.com
-lh4.googleusercontent.com
 r1---sn-a5m7lnlz.googlevideo.com
 r1---sn-a5mekn7y.googlevideo.com
 r1---sn-a5mekned.googlevideo.com
